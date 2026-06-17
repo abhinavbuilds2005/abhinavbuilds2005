@@ -120,9 +120,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: Add Your LinkedIn Link
-- 🌍 Portfolio: Add Your Portfolio Link
-- 📧 Email: Add Your Email
+- 💼 LinkedIn: https://www.linkedin.com/in/abhinav-anand-865926300/
+- 🌍 Portfolio: https://coderabhinavanand.netlify.app/
+- 📧 Email: abhinavanand9996@gmail.com
 
 ---
 
