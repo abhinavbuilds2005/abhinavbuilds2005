@@ -3,10 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Intelligent+Systems;BTech+CSE+(AIML)+%40+LPU" />
+</p>
 
-<h3 align="center">
-AI/ML Engineer in Progress • BTech CSE (AIML) @ LPU
-</h3>
+
 
 ### 🎓 BTech CSE (AIML) Student at LPU
 
