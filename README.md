@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋, I'm Abhinav Anand
 
-<!--
-**abhinavbuilds2005/abhinavbuilds2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BTech CSE (AIML) Student at LPU
 
-Here are some ideas to get you started:
+🚀 Aspiring AI/ML Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Building Machine Learning and Full Stack Projects
+
+---
+
+## 🧠 About Me
+
+- 🎓 BTech CSE (AIML) @ LPU
+- 📚 Learning Deep Learning & MLOps
+- 💻 Building AI Projects
+- 🎯 Goal: AI/ML Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+Python | C++ | SQL | JavaScript
+
+### AI/ML
+Scikit-Learn | Pandas | NumPy
+Matplotlib | Seaborn
+
+### Web Development
+HTML | CSS | Tailwind
+React | Node.js
+
+---
+
+## 🚀 Projects
+
+### 🏦 CreditWise Loan Approval System
+
+Machine Learning system for loan approval prediction using Logistic Regression and Feature Engineering.
+
+### 🛒 SmartCart Recommendation System
+
+Customer Segmentation and Recommendation System using K-Means Clustering.
+
+---
+
+## 📫 Connect
+
+Portfolio: Coming Soon
+
+LinkedIn: Coming Soon
