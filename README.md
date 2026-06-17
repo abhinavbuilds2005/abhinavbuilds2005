@@ -154,12 +154,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavbuilds2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7C3AED&text_color=ffffff" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbuilds2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavbuilds2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7C3AED&text_color=ffffff&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbuilds2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&cache_seconds=1800&hide=jupyter%20notebook" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
