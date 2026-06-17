@@ -159,11 +159,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavbuilds2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavbuilds2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" />
 </p>
 
 ---
