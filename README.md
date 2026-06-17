@@ -2,7 +2,11 @@
   <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/abhinav_github_banner_v2.png" width="100%">
 </p>
 
-# Hi 👋, I'm Abhinav Anand
+<h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
+
+<h3 align="center">
+AI/ML Engineer in Progress • BTech CSE (AIML) @ LPU
+</h3>
 
 ### 🎓 BTech CSE (AIML) Student at LPU
 
