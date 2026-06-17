@@ -24,7 +24,13 @@
 - 💻 Building AI Projects
 - 🎯 Goal: AI/ML Engineer
 
----
+## 🚀 Current Focus
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📊 Data Science
+- 🌐 Full Stack Development
+- 🚀 Building Real-World AI Projects
 
 ## 🛠️ Tech Stack
 
