@@ -32,35 +32,98 @@
 - 🌐 Full Stack Development
 - 🚀 Building Real-World AI Projects
 
+---
+
 ## 🛠️ Tech Stack
 
-### Programming
-Python | C++ | SQL | JavaScript
+### Programming Languages
 
-### AI/ML
-Scikit-Learn | Pandas | NumPy
-Matplotlib | Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Data Science & Machine Learning
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+### Deep Learning & AI
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-green?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Web Development
-HTML | CSS | Tailwind
-React | Node.js
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🏦 CreditWise Loan Approval System
 
-Machine Learning system for loan approval prediction using Logistic Regression and Feature Engineering.
+- End-to-End Loan Approval Prediction System
+- Logistic Regression & Feature Engineering
+- Real-Time Predictions using Streamlit
 
 ### 🛒 SmartCart Recommendation System
 
-Customer Segmentation and Recommendation System using K-Means Clustering.
+- Customer Segmentation using K-Means Clustering
+- Personalized Product Recommendations
+- Data-Driven Customer Insights
+
+### 🌐 Personal Portfolio Website
+
+- Modern AI-Themed Portfolio
+- Responsive Design
+- Showcases Skills, Projects & Achievements
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Analytics
 
-Portfolio: Coming Soon
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavbuilds2005&show_icons=true&theme=tokyonight)
 
-LinkedIn: Coming Soon
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbuilds2005&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhinavbuilds2005&theme=tokyonight)
+
+---
+
+## 📜 Certifications
+
+- 🏆 SQL Advanced – HackerRank
+- 🏆 Introduction to AI – Infosys Springboard
+- 🏆 Machine Learning Certification
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: Add Your LinkedIn Link
+- 🌍 Portfolio: Add Your Portfolio Link
+- 📧 Email: Add Your Email
+
+---
+
+⭐ Always learning, building and exploring the world of AI & Machine Learning.
