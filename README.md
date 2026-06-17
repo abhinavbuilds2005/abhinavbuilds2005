@@ -166,6 +166,36 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abhinavbuilds2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" />
 </p>
 
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavbuilds2005&theme=tokyo-night&bg_color=0D1117&color=00C9FF&line=7C3AED&point=00C9FF&area=true&hide_border=true" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+### 📦 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavbuilds2005&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhinavbuilds2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhinavbuilds2005&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhinavbuilds2005&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavbuilds2005&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 ---
 
 ## 📜 Certifications
