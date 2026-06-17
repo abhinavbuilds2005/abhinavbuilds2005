@@ -3,11 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+Enthusiast;Building+Intelligent+Systems;BTech+CSE+(AIML)+%40+LPU" />
 </p>
 
-
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=abhinavbuilds2005&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ### 🎓 BTech CSE (AIML) Student at LPU
 
@@ -17,12 +20,15 @@
 
 ---
 
-## 🧠 About Me
+<h3 align="center">🚀 AI/ML Engineer in Progress</h3>
 
-- 🎓 BTech CSE (AIML) @ LPU
-- 📚 Learning Deep Learning & MLOps
-- 💻 Building AI Projects
-- 🎯 Goal: AI/ML Engineer
+<p align="center">
+🎓 BTech CSE (AIML) @ LPU • 🤖 AI/ML Enthusiast • 💻 Full Stack Learner
+</p>
+
+<p align="center">
+Building intelligent systems using Machine Learning, Deep Learning, Computer Vision and Generative AI.
+</p>
 
 ## 🚀 Current Focus
 
