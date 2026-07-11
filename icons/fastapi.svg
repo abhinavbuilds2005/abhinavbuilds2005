@@ -7,8 +7,8 @@
     </linearGradient>
     <!-- Brand glow border gradient -->
     <linearGradient id="glow_grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF6D00"/>
-      <stop offset="100%" stop-color="#FFD180"/>
+      <stop offset="0%" stop-color="#009688"/>
+      <stop offset="100%" stop-color="#80CBC4"/>
     </linearGradient>
   </defs>
 
@@ -19,7 +19,8 @@
   <rect x="4" y="4" width="248" height="248" rx="56" stroke="url(#glow_grad)" stroke-width="6" opacity="0.85"/>
 
   <!-- Centered Inner Icon -->
-  <svg x="52" y="52" width="152" height="152" viewBox="0 0 24 24">
-    <path d="M6 2v6h12V2H6zm5 4.5H7v-1h4v1zm0-2H7v-1h4v1zm7 7.5c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zM6 14v6h12v-6H6zm5 4.5H7v-1h4v1zm0-2H7v-1h4v1z" fill="#FF7043"/>
+  <svg x="52" y="52" width="152" height="152" viewBox="0 0 256 256">
+    <rect width="256" height="256" rx="60" fill="#049789"/>
+<path d="M127.5 41C79.743 41 41 79.743 41 127.5C41 175.257 79.743 214 127.5 214C175.257 214 214 175.257 214 127.5C214 79.743 175.257 41 127.5 41ZM122.993 196.839V142.581H92.8306L136.167 58.1615V112.419H165.203L122.993 196.839Z" fill="white"/>
   </svg>
 </svg>

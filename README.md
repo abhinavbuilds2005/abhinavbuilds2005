@@ -102,91 +102,102 @@
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+<!-- Category 1: Languages, Backend & Dev Tools -->
 <table>
-  <!-- Category 1: Languages & Databases -->
   <tr>
-    <th colspan="6" align="left"><h3>💻 Languages & Core Databases</h3></th>
+    <th colspan="5" align="left"><h3>💻 Languages, Backend & Dev Tools</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python" /><br />
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/python.svg" width="48" height="48" alt="Python" /><br />
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br />
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/mysql.svg" width="48" height="48" alt="SQL" /><br />
       <sub><b>SQL</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br />
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br />
       <sub><b>PostgreSQL</b></sub>
     </td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/fastapi.svg" width="48" height="48" alt="FastAPI" /><br />
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/streamlit.svg" width="48" height="48" alt="Streamlit" /><br />
+      <sub><b>Streamlit</b></sub>
+    </td>
   </tr>
+  <tr>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/git.svg" width="48" height="48" alt="Git" /><br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/github.svg" width="48" height="48" alt="GitHub" /><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/vscode.svg" width="48" height="48" alt="VS Code" /><br />
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/anaconda.svg" width="48" height="48" alt="Anaconda" /><br />
+      <sub><b>Anaconda</b></sub>
+    </td>
+    <td align="center" valign="top" width="20%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/jupyter.svg" width="48" height="48" alt="Jupyter" /><br />
+      <sub><b>Jupyter</b></sub>
+    </td>
+  </tr>
+</table>
 
-  <!-- Category 2: Data Science & Analytics -->
+<!-- Category 2: Data Science & Visualization -->
+<table>
   <tr>
-    <th colspan="6" align="left"><h3>📊 Data Science & Analytics</h3></th>
+    <th colspan="4" align="left"><h3>📊 Data Science & Visualization</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="25%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/numpy.svg" width="48" height="48" alt="NumPy" /><br />
       <sub><b>NumPy</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="25%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pandas.svg" width="48" height="48" alt="Pandas" /><br />
       <sub><b>Pandas</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="25%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" /><br />
       <sub><b>Matplotlib</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="25%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/seaborn.svg" width="48" height="48" alt="Seaborn" /><br />
       <sub><b>Seaborn</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/jupyter.svg" width="48" height="48" alt="Jupyter" /><br />
-      <sub><b>Jupyter Notebook</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" /><br />
-      <sub><b>Anaconda</b></sub>
-    </td>
   </tr>
+</table>
 
-  <!-- Category 3: Machine Learning & Deep Learning -->
+<!-- Category 3: Machine Learning Frameworks & Pipeline -->
+<table>
   <tr>
-    <th colspan="6" align="left"><h3>🤖 Machine Learning & Deep Learning</h3></th>
+    <th colspan="6" align="left"><h3>🤖 Machine Learning Frameworks & Pipeline</h3></th>
   </tr>
   <tr>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br />
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br />
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br />
-      <sub><b>TensorFlow</b></sub>
-    </td>
     <td align="center" valign="top" width="16.6%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/machine_learning.svg" width="48" height="48" alt="Machine Learning" /><br />
       <sub><b>Machine Learning</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/deep_learning.svg" width="48" height="48" alt="Deep Learning" /><br />
-      <sub><b>Deep Learning</b></sub>
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/sklearn.svg" width="48" height="48" alt="Scikit-Learn" /><br />
+      <sub><b>Scikit-Learn</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/feature_engineering.svg" width="48" height="48" alt="Feature Engineering" /><br />
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/feature_engineering.svg" width="48" height="48" alt="Feature Eng." /><br />
       <sub><b>Feature Engineering</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="top" width="16.6%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/data_preprocessing.svg" width="48" height="48" alt="Data Preprocessing" /><br />
       <sub><b>Data Preprocessing</b></sub>
@@ -196,37 +207,53 @@
       <sub><b>Model Evaluation</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/hyperparameter_tuning.svg" width="48" height="48" alt="Hyperparameter Tuning" /><br />
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/hyperparameter_tuning.svg" width="48" height="48" alt="Tuning" /><br />
       <sub><b>Hyperparameter Tuning</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+  </tr>
+</table>
+
+<!-- Category 4: Algorithms & Deep Learning -->
+<table>
+  <tr>
+    <th colspan="7" align="left"><h3>🧠 Algorithms & Deep Learning</h3></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="14.2%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/deep_learning.svg" width="48" height="48" alt="Deep Learning" /><br />
+      <sub><b>Deep Learning</b></sub>
+    </td>
+    <td align="center" valign="top" width="14.2%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pytorch.svg" width="48" height="48" alt="PyTorch" /><br />
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" valign="top" width="14.2%">
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" /><br />
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" valign="top" width="14.2%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/regression.svg" width="48" height="48" alt="Regression" /><br />
       <sub><b>Regression</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="14.2%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/classification.svg" width="48" height="48" alt="Classification" /><br />
       <sub><b>Classification</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="14.2%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/clustering.svg" width="48" height="48" alt="Clustering" /><br />
       <sub><b>Clustering</b></sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="14.2%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pca.svg" width="48" height="48" alt="PCA" /><br />
       <sub><b>PCA</b></sub>
     </td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
-    <td width="16.6%"></td>
   </tr>
+</table>
 
-  <!-- Category 4: Generative AI & Large Language Models (LLMs) -->
+<!-- Category 5: Generative AI & Agentic Systems -->
+<table>
   <tr>
-    <th colspan="6" align="left"><h3>🧠 Generative AI & Large Language Models</h3></th>
+    <th colspan="6" align="left"><h3>🌟 Generative AI & Agentic Systems</h3></th>
   </tr>
   <tr>
     <td align="center" valign="top" width="16.6%">
@@ -235,10 +262,10 @@
     </td>
     <td align="center" valign="top" width="16.6%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/llms.svg" width="48" height="48" alt="LLMs" /><br />
-      <sub><b>Large Language Models</b></sub>
+      <sub><b>LLMs</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/prompt_engineering.svg" width="48" height="48" alt="Prompt Engineering" /><br />
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/prompt_engineering.svg" width="48" height="48" alt="Prompt Eng." /><br />
       <sub><b>Prompt Engineering</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
@@ -250,60 +277,38 @@
       <sub><b>AI Agents</b></sub>
     </td>
     <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/multi_agent_systems.svg" width="48" height="48" alt="Multi-Agent Systems" /><br />
+      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/multi_agent_systems.svg" width="48" height="48" alt="Multi-Agent" /><br />
       <sub><b>Multi-Agent Systems</b></sub>
     </td>
   </tr>
+</table>
+
+<!-- Category 6: GenAI Engineering & NLP -->
+<table>
   <tr>
-    <td align="center" valign="top" width="16.6%">
+    <th colspan="5" align="left"><h3>⚙️ GenAI Engineering & NLP</h3></th>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="20%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /><br />
       <sub><b>Hugging Face</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="20%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/rag.svg" width="48" height="48" alt="RAG" /><br />
       <sub><b>RAG</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="20%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/vector_databases.svg" width="48" height="48" alt="Vector DBs" /><br />
       <sub><b>Vector Databases (FAISS/ChromaDB)</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="20%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/embeddings.svg" width="48" height="48" alt="Embeddings" /><br />
       <sub><b>Embeddings</b></sub>
     </td>
-    <td align="center" valign="top" width="16.6%">
+    <td align="center" valign="top" width="20%">
       <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/tokenization.svg" width="48" height="48" alt="Tokenization" /><br />
       <sub><b>Tokenization</b></sub>
     </td>
-    <td width="16.6%"></td>
-  </tr>
-
-  <!-- Category 5: Development & Tools -->
-  <tr>
-    <th colspan="6" align="left"><h3>🔧 Development & Deployment</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" /><br />
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/streamlit.svg" width="48" height="48" alt="Streamlit" /><br />
-      <sub><b>Streamlit</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br />
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td width="16.6%"></td>
   </tr>
 </table>
 

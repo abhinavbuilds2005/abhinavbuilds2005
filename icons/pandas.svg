@@ -1,6 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
-  <rect width="256" height="256" fill="#242938" rx="60"/>
-  <svg x="48" y="48" width="160" height="160" viewBox="0 0 128 128">
+  <defs>
+    <!-- Dark glass-like gradient background -->
+    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2435"/>
+      <stop offset="100%" stop-color="#0b0e14"/>
+    </linearGradient>
+    <!-- Brand glow border gradient -->
+    <linearGradient id="glow_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#150458"/>
+      <stop offset="100%" stop-color="#FF2A2A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="256" height="256" fill="url(#bg_grad)" rx="60"/>
+  
+  <!-- Glowing Border Outline -->
+  <rect x="4" y="4" width="248" height="248" rx="56" stroke="url(#glow_grad)" stroke-width="6" opacity="0.85"/>
+
+  <!-- Centered Inner Icon -->
+  <svg x="52" y="52" width="152" height="152" viewBox="0 0 128 128">
     <path fill="#130754" d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z"/><path fill="#ffca00" d="M46.236 45.092h13.99v13.705h-13.99Z"/><path fill="#130754" d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z"/><path fill="#e70488" d="M68.245 69.011h13.99v13.705h-13.99Z"/><path fill="#130754" d="M90.248 0h13.99v96.554h-13.99Z"/>
   </svg>
 </svg>

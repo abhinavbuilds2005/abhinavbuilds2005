@@ -1,6 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
-  <rect width="256" height="256" fill="#242938" rx="60"/>
-  <svg x="48" y="48" width="160" height="160" viewBox="0 0 24 24">
+  <defs>
+    <!-- Dark glass-like gradient background -->
+    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2435"/>
+      <stop offset="100%" stop-color="#0b0e14"/>
+    </linearGradient>
+    <!-- Brand glow border gradient -->
+    <linearGradient id="glow_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2979FF"/>
+      <stop offset="100%" stop-color="#82B1FF"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect width="256" height="256" fill="url(#bg_grad)" rx="60"/>
+  
+  <!-- Glowing Border Outline -->
+  <rect x="4" y="4" width="248" height="248" rx="56" stroke="url(#glow_grad)" stroke-width="6" opacity="0.85"/>
+
+  <!-- Centered Inner Icon -->
+  <svg x="52" y="52" width="152" height="152" viewBox="0 0 24 24">
     
 <circle cx="6" cy="18" r="2.5" fill="#42A5F5"/>
 <circle cx="9" cy="15" r="2.5" fill="#42A5F5"/>
