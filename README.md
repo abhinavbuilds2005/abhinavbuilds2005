@@ -104,213 +104,54 @@
 
 ## 🛠️ Tech Stack
 
-<!-- Category 1: Languages, Backend & Dev Tools -->
-<table>
-  <tr>
-    <th colspan="5" align="left"><h3>💻 Languages, Backend & Dev Tools</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/python.svg" width="48" height="48" alt="Python" /><br />
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/mysql.svg" width="48" height="48" alt="SQL" /><br />
-      <sub><b>SQL</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /><br />
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/fastapi.svg" width="48" height="48" alt="FastAPI" /><br />
-      <sub><b>FastAPI</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/streamlit.svg" width="48" height="48" alt="Streamlit" /><br />
-      <sub><b>Streamlit</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/git.svg" width="48" height="48" alt="Git" /><br />
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/github.svg" width="48" height="48" alt="GitHub" /><br />
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/vscode.svg" width="48" height="48" alt="VS Code" /><br />
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/anaconda.svg" width="48" height="48" alt="Anaconda" /><br />
-      <sub><b>Anaconda</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/jupyter.svg" width="48" height="48" alt="Jupyter" /><br />
-      <sub><b>Jupyter</b></sub>
-    </td>
-  </tr>
-</table>
+## 🛠️ Tech Stack
 
-<!-- Category 2: Data Science & Visualization -->
-<table>
-  <tr>
-    <th colspan="4" align="left"><h3>📊 Data Science & Visualization</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/numpy.svg" width="48" height="48" alt="NumPy" /><br />
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pandas.svg" width="48" height="48" alt="Pandas" /><br />
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" /><br />
-      <sub><b>Matplotlib</b></sub>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/seaborn.svg" width="48" height="48" alt="Seaborn" /><br />
-      <sub><b>Seaborn</b></sub>
-    </td>
-  </tr>
-</table>
+### 💻 Programming Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<!-- Category 3: Machine Learning Frameworks & Pipeline -->
-<table>
-  <tr>
-    <th colspan="6" align="left"><h3>🤖 Machine Learning Frameworks & Pipeline</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/machine_learning.svg" width="48" height="48" alt="Machine Learning" /><br />
-      <sub><b>Machine Learning</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/sklearn.svg" width="48" height="48" alt="Scikit-Learn" /><br />
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/feature_engineering.svg" width="48" height="48" alt="Feature Eng." /><br />
-      <sub><b>Feature Engineering</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/data_preprocessing.svg" width="48" height="48" alt="Data Preprocessing" /><br />
-      <sub><b>Data Preprocessing</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/model_evaluation.svg" width="48" height="48" alt="Model Evaluation" /><br />
-      <sub><b>Model Evaluation</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/hyperparameter_tuning.svg" width="48" height="48" alt="Tuning" /><br />
-      <sub><b>Hyperparameter Tuning</b></sub>
-    </td>
-  </tr>
-</table>
+### 📊 Data Science & Analytics
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-<!-- Category 4: Algorithms & Deep Learning -->
-<table>
-  <tr>
-    <th colspan="7" align="left"><h3>🧠 Algorithms & Deep Learning</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/deep_learning.svg" width="48" height="48" alt="Deep Learning" /><br />
-      <sub><b>Deep Learning</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pytorch.svg" width="48" height="48" alt="PyTorch" /><br />
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/tensorflow.svg" width="48" height="48" alt="TensorFlow" /><br />
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/regression.svg" width="48" height="48" alt="Regression" /><br />
-      <sub><b>Regression</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/classification.svg" width="48" height="48" alt="Classification" /><br />
-      <sub><b>Classification</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/clustering.svg" width="48" height="48" alt="Clustering" /><br />
-      <sub><b>Clustering</b></sub>
-    </td>
-    <td align="center" valign="top" width="14.2%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/pca.svg" width="48" height="48" alt="PCA" /><br />
-      <sub><b>PCA</b></sub>
-    </td>
-  </tr>
-</table>
+### 🤖 Machine Learning & Deep Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-10B981?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-059669?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-3B82F6?style=for-the-badge)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-2563EB?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-EC4899?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-DB2777?style=for-the-badge)
+![Clustering](https://img.shields.io/badge/Clustering-9333EA?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-7C3AED?style=for-the-badge)
 
-<!-- Category 5: Generative AI & Agentic Systems -->
-<table>
-  <tr>
-    <th colspan="6" align="left"><h3>🌟 Generative AI & Agentic Systems</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/generative_ai.svg" width="48" height="48" alt="Generative AI" /><br />
-      <sub><b>Generative AI</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/llms.svg" width="48" height="48" alt="LLMs" /><br />
-      <sub><b>LLMs</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/prompt_engineering.svg" width="48" height="48" alt="Prompt Eng." /><br />
-      <sub><b>Prompt Engineering</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/langchain.svg" width="48" height="48" alt="LangChain" /><br />
-      <sub><b>LangChain</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/ai_agents.svg" width="48" height="48" alt="AI Agents" /><br />
-      <sub><b>AI Agents</b></sub>
-    </td>
-    <td align="center" valign="top" width="16.6%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/multi_agent_systems.svg" width="48" height="48" alt="Multi-Agent" /><br />
-      <sub><b>Multi-Agent Systems</b></sub>
-    </td>
-  </tr>
-</table>
+### 🧠 Generative AI & Large Language Models (LLMs)
+![Generative AI](https://img.shields.io/badge/Generative_AI-00C9FF?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/Large_Language_Models_(LLMs)-00C9FF?style=for-the-badge&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-5B21B6?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG_(Retrieval--Augmented_Generation)-00C9FF?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases_(FAISS/ChromaDB)-0D1117?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-4B5563?style=for-the-badge)
+![Tokenization](https://img.shields.io/badge/Tokenization-6B7280?style=for-the-badge)
 
-<!-- Category 6: GenAI Engineering & NLP -->
-<table>
-  <tr>
-    <th colspan="5" align="left"><h3>⚙️ GenAI Engineering & NLP</h3></th>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/huggingface.svg" width="48" height="48" alt="Hugging Face" /><br />
-      <sub><b>Hugging Face</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/rag.svg" width="48" height="48" alt="RAG" /><br />
-      <sub><b>RAG</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/vector_databases.svg" width="48" height="48" alt="Vector DBs" /><br />
-      <sub><b>Vector Databases (FAISS/ChromaDB)</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/embeddings.svg" width="48" height="48" alt="Embeddings" /><br />
-      <sub><b>Embeddings</b></sub>
-    </td>
-    <td align="center" valign="top" width="20%">
-      <img src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/main/icons/tokenization.svg" width="48" height="48" alt="Tokenization" /><br />
-      <sub><b>Tokenization</b></sub>
-    </td>
-  </tr>
-</table>
+### 🔧 Tools, Platforms & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
