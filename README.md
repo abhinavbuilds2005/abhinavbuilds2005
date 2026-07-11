@@ -154,15 +154,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavbuilds2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7C3AED&text_color=ffffff&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavbuilds2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&cache_seconds=86400&hide=jupyter%20notebook" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=abhinavbuilds2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=7C3AED&text_color=ffffff&cache_seconds=1800" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhinavbuilds2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=ffffff&cache_seconds=1800&hide=jupyter%20notebook" height="180"/>
 </p>
+
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=abhinavbuilds2005&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C9FF&ring=7C3AED&fire=00C9FF&currStreakLabel=ffffff" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavbuilds2005&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&no-bg=true" />
-</p>
+
 ### 📈 Contribution Graph
 
 <p align="center">
@@ -173,14 +172,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake.svg" />
-    <img alt="github-snake"
-      src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/abhinavbuilds2005/abhinavbuilds2005/output/github-snake-dark.svg" />
   </picture>
 </p>
+
 ### 📦 Profile Summary
 
 <p align="center">
