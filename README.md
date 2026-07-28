@@ -49,7 +49,7 @@
         and all metrics directly in the UI. Built for interpretability, not just accuracy.
       </p>
       <p>
-        <strong>Highlights:</strong> Custom feature engineering pipeline · Real-time risk scoring · 
+        <strong>Highlights:</strong> Custom feature engineering pipeline · Real-time risk scoring ·
         Model metrics in the UI (not the terminal) · SHAP-based explainability
       </p>
       <a href="https://github.com/abhinavbuilds2005"><img src="https://img.shields.io/badge/Live App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
@@ -60,11 +60,11 @@
       <p><strong>K-Means Clustering · PCA · Churn Prediction · Streamlit</strong></p>
       <p>
         Segments customers by purchase behavior and predicts churn — giving e-commerce teams
-        a data-driven lens into <em>who to retain and why</em>. Features PCA-based dimensionality 
+        a data-driven lens into <em>who to retain and why</em>. Features PCA-based dimensionality
         reduction with visual cluster exploration and segment-level churn risk scores.
       </p>
       <p>
-        <strong>Highlights:</strong> PCA variance ratio surfaced in UI · K-Means with elbow method · 
+        <strong>Highlights:</strong> PCA variance ratio surfaced in UI · K-Means with elbow method ·
         Churn probability per segment · Personalized recommendation engine
       </p>
       <a href="https://github.com/abhinavbuilds2005"><img src="https://img.shields.io/badge/Live App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
@@ -77,7 +77,7 @@
       <p><strong>NLP · Generative AI · LLMs · Streamlit</strong></p>
       <p>
         An AI-powered resume scorer that compares a candidate's resume against a job description
-        and returns a match score, skill gap analysis, and rewrite suggestions — like having 
+        and returns a match score, skill gap analysis, and rewrite suggestions — like having
         a recruiter review your resume before you submit it.
       </p>
       <p>
@@ -89,8 +89,8 @@
       <h3>🌐 Personal Portfolio Website</h3>
       <p><strong>HTML5 · CSS3 · JavaScript · Tailwind CSS</strong></p>
       <p>
-        AI-themed developer portfolio with responsive design, smooth animations, and a clean 
-        layout showcasing projects, skills, and certifications. Designed to leave an impression, 
+        AI-themed developer portfolio with responsive design, smooth animations, and a clean
+        layout showcasing projects, skills, and certifications. Designed to leave an impression,
         not just list bullet points.
       </p>
       <a href="https://coderabhinavanand.netlify.app/"><img src="https://img.shields.io/badge/Visit Site-Live-00C9FF?style=for-the-badge&logo=netlify&logoColor=white"/></a>
@@ -99,10 +99,6 @@
 </table>
 
 ---
-
-## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
 
 ## 🛠️ Tech Stack
 
@@ -163,6 +159,14 @@
 🎯  DSA Practice           →  LeetCode grind — arrays, trees, graphs, DP
 ☁️  Cloud Basics           →  AWS fundamentals for ML deployment
 ```
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavbuilds2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" />
+</p>
 
 ---
 
