@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./abhinav_github_banner_v2.png" width="100%" alt="Abhinav Anand — AI/ML Engineer Banner" />
+<!-- <img src="./abhinav_github_banner_v2.png" width="100%" alt="Abhinav Anand — AI/ML Engineer Banner" /> -->
 
 <br/><br/>
 
